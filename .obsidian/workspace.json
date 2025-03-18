@@ -20,18 +20,6 @@
               "icon": "lucide-file",
               "title": "Russian"
             }
-          },
-          {
-            "id": "72c6661b2a22a718",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "photos/hostname.png"
-              },
-              "icon": "lucide-image",
-              "title": "hostname"
-            }
           }
         ]
       }
@@ -90,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "04cce5b30ec24af9",
@@ -191,8 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75dd9b971597b088",
+  "active": "59d0786042344383",
   "lastOpenFiles": [
+    "Languages/English.md",
+    "Languages/Russian.md",
     "photos/Pasted image 20250305180212.png",
     "photos/Pasted image 20250305180113.png",
     "photos/Pasted image 20250305180031.png",
@@ -203,13 +194,10 @@
     "photos/Pasted image 20250305174858.png",
     "photos/Pasted image 20250305174126.png",
     "photos/Pasted image 20250305151338.png",
-    "photos/Pasted image 20250305151241.png",
     "conflict-files-obsidian-git.md",
-    "Languages/Russian.md",
     "README.md",
     "photos",
     "Languages/Russian.md~",
-    "Languages/English.md",
     "README.md~",
     "Languages/English language.md",
     "Languages/Русский язык.md",
